@@ -2,7 +2,3 @@
 Repository for the UBDS R workshop to house our shell scripts and R code
 
 This repository contains scripts, data, and R code for the R Workshop I attended 01/29/2026.
-
-Someday I will find out how to delete the extra shell_scripts folder.
-
-Someday.
