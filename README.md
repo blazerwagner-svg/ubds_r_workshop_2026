@@ -7,7 +7,3 @@ This repository contains scripts, data, and R code for the R Workshop I attended
 
 - **shell_scripts/** -Bash scripts from workshop
 - **analysis/** - Code and data for R workshop
-
-
-testing if you can "git add readme.md" 
-then make changes
