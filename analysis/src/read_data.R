@@ -31,7 +31,10 @@ catnames <- data.frame(
 
 cats <- rbind(cats,catnames)
 
-download.file ("https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/main/episodes/data/gapminder_data.csv")
-gapminder <- read.csv("https://raw.githubusercontent.com/swcarpentry/
-                r-novice-gapminder/main/episodes/data/gapminder_data.csv")
+download.file (https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/main/episodes/data/gapminder_data.csv,
+               ~\workshops\ubds_r_workshop_2026\analysis\data\gapminder_data.csv)
+gapminder <- read.csv("~/workshops/ubds_r_workshop_2026/analysis/data")
+library(readr)
+gapminder <- read_csv("data/gapminder_data.csv")
+View(gapminder_data)
 str(gapminder)
